@@ -1,0 +1,3 @@
+Product,2025,MacBook Air,899.99
+Student,2500254,Ali Ali,99.8
+Product,2222,iPhone 17 ProMax,1199.99
